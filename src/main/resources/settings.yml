@@ -1,0 +1,9 @@
+Database:
+  #Local or Mongodb
+  Type: "Local"
+  LinkURL:
+    client: ""
+    database: ""
+    collection: ""
+Plugin:
+  Title: "§7§l[§f§lAkiraInteger§7§l] "
